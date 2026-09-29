@@ -13,5 +13,3 @@ for temp in temperatures:
     print(f" Goal:72F")
     print(f"Action:{action}")
         
-    
-
