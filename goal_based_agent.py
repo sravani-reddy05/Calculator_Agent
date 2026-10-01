@@ -11,5 +11,5 @@ for temp in temperatures:
     print(f"Temperature: {temp}F")
     print(f"Temperature: {temp}F")
     print(f" Goal:72F")
-    print(f"Action:{action}")
+    print(f"Action: {action}")
         

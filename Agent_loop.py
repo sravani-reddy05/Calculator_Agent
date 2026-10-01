@@ -28,6 +28,6 @@ for iteration in range(1, 4):   # 3 iterations
     else:
         action = "Requesting more information..."
 
-    print("Action:", action)
+    print("Action :", action)
 
 print("\nAgent completed 3 iterations.")

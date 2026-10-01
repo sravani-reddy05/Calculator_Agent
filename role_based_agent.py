@@ -3,7 +3,7 @@ def rule_based_agent(temperature):
         return "cool" 
     else:
         return "idle" 
-temperatures=[80,100,101,120] 
+temperatures=[80,99,101,120] 
 for temp in temperatures:
     action=rule_based_agent(temp) 
     print(f"Temperature:{temp}") 
